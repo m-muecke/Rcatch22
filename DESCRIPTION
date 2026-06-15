@@ -1,11 +1,12 @@
 Package: Rcatch22
 Type: Package
 Title: Calculation of 22 CAnonical Time-Series CHaracteristics
-Version: 0.2.4
+Version: 0.2.5
 Date: 2026-06-15
 Authors@R: c(
   person("Trent", "Henderson", email = "then6675@uni.sydney.edu.au", role = c("cre", "aut")),
-  person("Carl", "Lubba", email = "c.lubba15@imperial.ac.uk", role = c("ctb"))
+  person("Carl", "Lubba", email = "c.lubba15@imperial.ac.uk", role = c("ctb")),
+    person("Maximilian", "Muecke", email = "muecke.maximilian@gmail.com", role = c("ctb"))
   )
 Maintainer: Trent Henderson <then6675@uni.sydney.edu.au>
 Description: Calculate 22 summary statistics coded in C on time-series vectors to enable 

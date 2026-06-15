@@ -69,7 +69,7 @@ can be cited using the following:
     To cite package 'Rcatch22' in publications use:
 
       Henderson T (2026). _Rcatch22: Calculation of 22 CAnonical
-      Time-Series CHaracteristics_. R package version 0.2.4.
+      Time-Series CHaracteristics_. R package version 0.2.5.
 
     A BibTeX entry for LaTeX users is
 
@@ -77,10 +77,10 @@ can be cited using the following:
         title = {Rcatch22: Calculation of 22 CAnonical Time-Series CHaracteristics},
         author = {Trent Henderson},
         year = {2026},
-        note = {R package version 0.2.4},
+        note = {R package version 0.2.5},
       }
 
 Please also cite the original *catch22* paper:
 
 - [Lubba et al. (2019). catch22: CAnonical Time-series
-  CHaracteristics.](https://link.springer.com/article/10.1007/s10618-019-00647-x/)
+  CHaracteristics.](https://link.springer.com/article/10.1007/s10618-019-00647-x)
