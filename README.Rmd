@@ -29,11 +29,11 @@ You can install the development version of `Rcatch22` from GitHub using the foll
 devtools::install_github("hendersontrent/Rcatch22")
 ```
 
-You might also be interested in a related R package called [`theft`](https://github.com/hendersontrent/theft) (Tools for Handling Extraction of Features from Time series) which provides standardised access to `Rcatch22` and 5 other feature sets (including 3 feature sets from Python libraries) for a total of ~1,200 features. `theft` also includes extensive functionality for processing and analysing time-series features, including automatic time-series classification, top performing feature identification, and a range of statistical data visualisations.
+You might also be interested in a related R package called [`theft`](https://github.com/hendersontrent/theft) (Tools for Handling Extraction of Features from Time series) which provides standardized access to `Rcatch22` and several other feature sets in both R and Python for a total of >6,600 features (including enabling you to calculate your own custom features).
 
 ## Wiki
 
-Please open the included vignette within an R environment or visit the detailed [`Rcatch22` Wiki](https://time-series-features.gitbook.io/catch22/r) for information and tutorials.
+Please open the included vignette within an R environment or visit the detailed [`catch22` gitbook](https://time-series-features.gitbook.io/catch22) for detailed information on all the features and implementations in various programming languages.
 
 ## Computational performance
 

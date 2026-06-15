@@ -1,8 +1,8 @@
 Package: Rcatch22
 Type: Package
 Title: Calculation of 22 CAnonical Time-Series CHaracteristics
-Version: 0.2.3
-Date: 2024-09-30
+Version: 0.2.4
+Date: 2026-06-15
 Authors@R: c(
   person("Trent", "Henderson", email = "then6675@uni.sydney.edu.au", role = c("cre", "aut")),
   person("Carl", "Lubba", email = "c.lubba15@imperial.ac.uk", role = c("ctb"))
@@ -19,7 +19,6 @@ Depends:
     R (>= 3.5.0)
 Imports: 
     rlang,
-    stats,
     Rcpp (>= 0.12.15)
 LinkingTo: 
     Rcpp
@@ -28,6 +27,6 @@ Suggests:
     markdown,
     rmarkdown,
     testthat (>= 3.0.0)
-RoxygenNote: 7.1.1
+RoxygenNote: 7.3.3
 VignetteBuilder: knitr
 Config/testthat/edition: 3

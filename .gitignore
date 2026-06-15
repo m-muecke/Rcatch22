@@ -49,3 +49,5 @@ helpers/*
 # Compilation results
 src/*.so
 src/*.o
+/doc/
+/Meta/
